@@ -1,10 +1,7 @@
-<h1> Nadya's webpage</h1>
-description: feel free to bookmark this page to keep an eye on my project updates
-## Welcome to GitHub Pages
+## Nadya's homepage
 
-You can use the [editor on GitHub](https://github.com/nadyanasir/nadyanasir.github.io-EP1000/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+feel free to bookmark this page to keep an eye on my project updates
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
