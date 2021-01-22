@@ -1,3 +1,5 @@
+title: welcome to Nadya's homepage 
+description: feel free to bookmark this page to keep an eye on my project updates
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nadyanasir/nadyanasir.github.io-EP1000/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
