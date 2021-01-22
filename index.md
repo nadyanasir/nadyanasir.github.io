@@ -1,4 +1,4 @@
-title: welcome to Nadya's homepage 
+<h1> Nadya's webpage</h1>
 description: feel free to bookmark this page to keep an eye on my project updates
 ## Welcome to GitHub Pages
 
