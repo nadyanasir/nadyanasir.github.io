@@ -1,5 +1,5 @@
 ## Nadya's homepage
-feel free to bookmark this page to keep an eye on my project updates
+Feel free to bookmark this page to keep an eye on my project updates
 
 
 ### Markdown
